@@ -31,5 +31,5 @@ jobs:
 
       - id: jupyter 
         name: Jupyter Notebook Execution
-        run: jupyter execute OKR_Sheet:Magento_Integration.ipynb
+        run: jupyter execute OKR_Sheet_Magento_Integration.ipynb
         shell: bash 
